@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="FlipBoard/FlipBoard.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlipBoard/Tests.cs">
+    <Files>
+      <File FileName="FlipBoard/Tests.cs" Line="36" Column="1" />
+      <File FileName="FlipBoard/AppInitializer.cs" Line="35" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FlipBoard PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
