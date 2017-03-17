@@ -1,14 +1,14 @@
 # FlipBoard
 Automation Test Script for FlipBoard
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
